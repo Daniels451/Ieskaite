@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(95, 93, 93);
+}
+h1{
+    color: rgb(201, 25, 25);
+    text-align: right;
+}
+.ts {
+    margin: auto;
+    fill: #73AD21;
+    width: 60%;
+    border: 3px solid #af1717;
+    padding: 110px;
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #b9182d;
+    text-align: left;
+    background-color: #5db633;
+    padding: 8px;
+  }
